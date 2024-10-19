@@ -9,3 +9,4 @@ Efficient and Accelerated compute on AWS
   - Just Building Mutli Architecutre
   - Update to runtime and library
   - need a minor configuration adjustment
+  - Node.js, Python, Ruby, PHP, JDK 17 
