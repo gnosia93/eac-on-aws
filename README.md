@@ -11,3 +11,6 @@ Efficient and Accelerated compute on AWS
   - need a minor configuration adjustment
   - Node.js, Python, Ruby, PHP, JDK 17 
 ![](https://github.com/gnosia93/eac-on-aws/blob/main/images/graviton-blog-1.png)
+
+
+* [AWS re:Invent 2023 - Migrating critical business applications to AWS Graviton with ease (CMP315)](https://www.youtube.com/watch?v=9W0j__k5afg&list=PLhr1KZpdzuke0JqsnC-b-ohUWuiyNUNAe&index=3)
