@@ -25,3 +25,5 @@ Efficient and Accelerated compute on AWS
 * [*Graviton and EC2* - The story of EC2 via the AWS Console](https://www.youtube.com/watch?v=yAf6-A8Zso4&list=PLhr1KZpdzuke0JqsnC-b-ohUWuiyNUNAe&index=4)
   - uname -m
   - lscpu
+
+* [Package Management in Graviton](https://www.youtube.com/watch?v=ysmvoO4DgB8&list=PLhr1KZpdzuke0JqsnC-b-ohUWuiyNUNAe&index=5)
