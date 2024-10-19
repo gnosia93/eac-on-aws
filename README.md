@@ -20,3 +20,6 @@ Efficient and Accelerated compute on AWS
 * [AWS re:Invent 2023 - AWS Graviton: The best price performance for your AWS workloads (CMP334)](https://www.youtube.com/watch?v=T_hMIjKtSr4&list=PLhr1KZpdzuke0JqsnC-b-ohUWuiyNUNAe&index=3)
 ![](https://github.com/gnosia93/eac-on-aws/blob/main/images/graviton-2.png)
 ![](https://github.com/gnosia93/eac-on-aws/blob/main/images/graviton-3.png)
+
+
+* [*Graviton and EC2* - The story of EC2 via the AWS Console](https://www.youtube.com/watch?v=yAf6-A8Zso4&list=PLhr1KZpdzuke0JqsnC-b-ohUWuiyNUNAe&index=4)
