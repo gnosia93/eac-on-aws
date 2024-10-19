@@ -27,6 +27,10 @@ Efficient and Accelerated compute on AWS
   - lscpu
 
 * [Package Management in Graviton](https://www.youtube.com/watch?v=ysmvoO4DgB8&list=PLhr1KZpdzuke0JqsnC-b-ohUWuiyNUNAe&index=5)
+  ![](https://github.com/gnosia93/eac-on-aws/blob/main/images/graviton-arm.png)
+  ![](https://github.com/gnosia93/eac-on-aws/blob/main/images/graviton-isv.png)
+  
+
 
 
 ## 레퍼런스 ##
