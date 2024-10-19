@@ -14,3 +14,7 @@ Efficient and Accelerated compute on AWS
 
 
 * [AWS re:Invent 2023 - Migrating critical business applications to AWS Graviton with ease (CMP315)](https://www.youtube.com/watch?v=9W0j__k5afg&list=PLhr1KZpdzuke0JqsnC-b-ohUWuiyNUNAe&index=3)
+
+
+
+* [AWS re:Invent 2023 - AWS Graviton: The best price performance for your AWS workloads (CMP334)](https://www.youtube.com/watch?v=T_hMIjKtSr4&list=PLhr1KZpdzuke0JqsnC-b-ohUWuiyNUNAe&index=3)
