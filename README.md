@@ -36,3 +36,4 @@ Efficient and Accelerated compute on AWS
 ## 레퍼런스 ##
 
 * https://github.com/aws/aws-graviton-getting-started
+* https://catalog.workshops.aws/graviton/en-US
