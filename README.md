@@ -27,3 +27,8 @@ Efficient and Accelerated compute on AWS
   - lscpu
 
 * [Package Management in Graviton](https://www.youtube.com/watch?v=ysmvoO4DgB8&list=PLhr1KZpdzuke0JqsnC-b-ohUWuiyNUNAe&index=5)
+
+
+## 레퍼런스 ##
+
+* https://github.com/aws/aws-graviton-getting-started
