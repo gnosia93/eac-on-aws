@@ -10,3 +10,4 @@ Efficient and Accelerated compute on AWS
   - Update to runtime and library
   - need a minor configuration adjustment
   - Node.js, Python, Ruby, PHP, JDK 17 
+![](https://github.com/gnosia93/eac-on-aws/blob/main/images/graviton-blog-1.png)
