@@ -2,6 +2,9 @@
 Efficient and Accelerated compute on AWS
 
 
+## Inferencia / Tranium ##
+
+* https://hyperconnect.github.io/2022/12/13/infra-cost-optimization-with-aws-inferentia.html
 
 ## Graviton ##
 
