@@ -5,7 +5,9 @@ Efficient and Accelerated compute on AWS
 ## Inferencia / Tranium ##
 
 * https://hyperconnect.github.io/2022/12/13/infra-cost-optimization-with-aws-inferentia.html
+* https://bcho.tistory.com/1437
 
+  
 ## Graviton ##
 
 * [AWS re:Invent 2023 - Migrating to AWS Graviton with AWS container services (CMP404)](https://www.youtube.com/watch?v=9JZVomrx6uQ&list=PLhr1KZpdzuke0JqsnC-b-ohUWuiyNUNAe)
