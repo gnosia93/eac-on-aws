@@ -7,6 +7,8 @@ Efficient and Accelerated compute on AWS
 * https://hyperconnect.github.io/2022/12/13/infra-cost-optimization-with-aws-inferentia.html
 * https://bcho.tistory.com/1437
 
+* [ResNet50](https://beginnerdeveloper-lit.tistory.com/160)
+
   
 ## Graviton ##
 
