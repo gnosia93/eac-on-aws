@@ -8,7 +8,7 @@ Efficient and Accelerated compute on AWS
 * https://bcho.tistory.com/1437
 
 * [ResNet50](https://beginnerdeveloper-lit.tistory.com/160)
-
+* https://pseudo-lab.github.io/pytorch-guide/docs/index.html
   
 ## Graviton ##
 
